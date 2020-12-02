@@ -10,3 +10,15 @@ body{
     text-transform:uppercase;
     font-weight: 500;
 }
+
+.box{
+    width: 300px;
+    padding: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #191919;
+    text-align: center;
+  
+}
