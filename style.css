@@ -63,3 +63,7 @@ body{
    transition: 0.25s;
    cursor: pointer;
 }
+
+[type="submit"]:hover{
+    background: #2ecc71;
+}
